@@ -161,7 +161,7 @@ if(someEven){
 /*
 reduce() 有两个功能，一是可以对数组元素进行求和，二是将数组元素连接成字符串。
 */
-fucntion add(num1,num2){
+function add(num1,num2){
   return num1 + num2;
 }
 var num = [1,2,3,4];
